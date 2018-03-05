@@ -1,0 +1,98 @@
+.main{
+background-color: lightgrey;
+margin-left: 1em;
+border: 2px solid black;
+}
+.img0{
+  margin: 10%;
+  width: 50%;
+  height: 35%;
+  border-radius: 25%;
+
+}
+.travels{
+  background-color: white;
+  padding-bottom: 1em;
+  padding-left: 1em;
+  padding-right: 1em;
+  width:25em/auto;
+  margin-left: 2em;
+  margin-right: 2em;
+  border-radius: 5%;
+  border-color: black;
+  border-style: solid;
+}
+.img2{
+  padding-left: 1em;
+  padding-right: 1em;
+  width: 35%;
+  height: 35%;
+  border-radius: 25%;
+}
+.Language{
+  margin: 2em;
+  padding: 2em;
+  width:25em/auto;
+  border-radius: 5%;
+  background-color: white;
+  border-color: black;
+  border-style: solid;
+}
+.long-street{
+  border-radius: 25%;
+  width: 25%;
+  height: 25%;
+}
+
+.long{
+  width: 20em/auto;
+  height: 20em/auto;
+  background-color: white;
+  margin-left: 2em;
+  margin-right: 2em;
+  padding: 1em;
+  border-radius: 10%;
+  border-color: black;
+  border-style: solid;
+}
+.img3{
+
+  padding-left: :1em;
+  padding-right:1em;
+  border-radius: 25%;
+  width: 35%;
+  height: 35%;
+
+}
+.bo{
+  border-color: black;
+  border-style: solid;
+  padding: 1em;
+  background-color: white;
+  border-radius: 5%;
+  width: 25em/auto;
+  height: 25em/auto;
+  margin-left: 2em;
+  margin-right: 2em;
+
+}
+.the{
+  border-color: black;
+  border-style:  ridge;
+  background-color: white;
+  border-radius: 5%;
+  width: 25em/auto;
+  height: 25em/auto;
+  margin-left: 2em;
+  margin-right: 2em;
+padding: 1em;
+}
+
+.img4{
+
+  padding-left: 2em;
+  padding-right: 2em;
+  width: 35%;
+height: 35%;
+border-radius: 25%;
+}
