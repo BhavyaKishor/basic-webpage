@@ -1,16 +1,17 @@
 .main{
-background-color: lightgrey;
+background-color:;
 margin-left: 1em;
 border: 2px solid black;
 }
 .img0{
   margin: 10%;
-  width: 50%;
-  height: 35%;
-  border-radius: 25%;
+  width: 25%;
+  height: 25%;
+  border-radius: 50%;
 
 }
 .travels{
+  float: left;
   background-color: white;
   padding-bottom: 1em;
   padding-left: 1em;
@@ -25,9 +26,9 @@ border: 2px solid black;
 .img2{
   padding-left: 1em;
   padding-right: 1em;
-  width: 35%;
-  height: 35%;
-  border-radius: 25%;
+  width: 25%;
+  height: 25%;
+  border-radius: 50%;
 }
 .Language{
   margin: 2em;
@@ -39,60 +40,72 @@ border: 2px solid black;
   border-style: solid;
 }
 .long-street{
-  border-radius: 25%;
+  border-radius: 50%;
   width: 25%;
   height: 25%;
 }
 
+
+
+
+.bo-ka{
+  width: 40%;
+}
+
 .long{
-  width: 20em/auto;
-  height: 20em/auto;
-  background-color: white;
-  margin-left: 2em;
-  margin-right: 2em;
-  padding: 1em;
-  border-radius: 10%;
   border-color: black;
   border-style: solid;
+  padding: 1em;
+  background-color: white;
+  border-radius: 5%;
+  width: 70%;
+  height: 40%;
+  margin-left: 2em;
+  margin-right: 2em;
 }
 .img3{
 
   padding-left: :1em;
   padding-right:1em;
-  border-radius: 25%;
-  width: 35%;
-  height: 35%;
+  border-radius: 100%;
+  width: 25%;
+  height: 25%;
 
 }
 .bo{
+ margin-top: 1em;
   border-color: black;
   border-style: solid;
   padding: 1em;
   background-color: white;
   border-radius: 5%;
-  width: 25em/auto;
-  height: 25em/auto;
+  width: 70%;
+  height: 40%;
   margin-left: 2em;
   margin-right: 2em;
 
 }
 .the{
+  margin-top: 1em;
+
   border-color: black;
   border-style:  ridge;
   background-color: white;
   border-radius: 5%;
-  width: 25em/auto;
-  height: 25em/auto;
+  width: 70%;
+  height: 30%;
   margin-left: 2em;
   margin-right: 2em;
 padding: 1em;
 }
-
+.Castle-info{
+  width: 50%;
+}
 .img4{
 
   padding-left: 2em;
   padding-right: 2em;
-  width: 35%;
-height: 35%;
-border-radius: 25%;
+  width: 25%;
+height: 25%;
+border-radius: 100%;
 }
