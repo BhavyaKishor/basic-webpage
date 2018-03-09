@@ -69,7 +69,6 @@ display: inline-block;
 .long{float: left;
   border-color: black;
   border-style: solid;
-  padding: 10px;
   background-color: white;
   border-radius: 5%;
   width: 30.33%;
@@ -89,10 +88,8 @@ display: inline-block;
 }
 .bo{
   float: left;
- margin-top:;
   border-color: black;
   border-style: solid;
-  padding: 1em;
   background-color: white;
   border-radius: 5%;
   width: 30.33%;
