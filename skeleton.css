@@ -59,9 +59,7 @@
   .column:first-child,
   .columns:first-child {
     margin-left: 0; }
-    img{
-      width: 120px;
-    }
+
   .one.column,
   .one.columns                    { width: 4.66666666667%; }
   .two.columns                    { width: 13.3333333333%; }
@@ -419,3 +417,6 @@ there.
 
 /* Larger than Desktop HD */
 @media (min-width: 1200px) {}
+  img{
+    width: 100%;
+  }

@@ -45,23 +45,38 @@ border: 2px solid black;
   height: 25%;
 }
 
-
-
-
-.bo-ka{
-  width: 40%;
+.hplace{
+  display: inline-block;
+  width: 100%;
 }
-
-.long{
+.bo{float: left;
   border-color: black;
   border-style: solid;
   padding: 1em;
   background-color: white;
   border-radius: 5%;
-  width: 70%;
+  width: 33.33%;
   height: 40%;
   margin-left: 2em;
   margin-right: 2em;
+display: inline-block;
+}
+
+.bo-ka{
+  width: 90%;
+}
+
+.long{float: left;
+  border-color: black;
+  border-style: solid;
+  padding: 10px;
+  background-color: white;
+  border-radius: 5%;
+  width: 30.33%;
+  height: 40%;
+  margin-left: 0.5em;
+  margin-right: 0.5em;
+display: inline-block;
 }
 .img3{
 
@@ -73,33 +88,34 @@ border: 2px solid black;
 
 }
 .bo{
- margin-top: 1em;
+  float: left;
+ margin-top:;
   border-color: black;
   border-style: solid;
   padding: 1em;
   background-color: white;
   border-radius: 5%;
-  width: 70%;
+  width: 30.33%;
   height: 40%;
-  margin-left: 2em;
-  margin-right: 2em;
+  margin-left: 0.5em;
+  margin-right: 0.5em;
+
 
 }
-.the{
-  margin-top: 1em;
 
-  border-color: black;
-  border-style:  ridge;
-  background-color: white;
-  border-radius: 5%;
-  width: 70%;
-  height: 30%;
-  margin-left: 2em;
-  margin-right: 2em;
-padding: 1em;
-}
 .Castle-info{
-  width: 50%;
+  width: 90%;
+}
+.the{float: right;
+    border-color: black;
+    border-style: solid;
+    background-color: white;
+    border-radius: 5%;
+    width: 28.33%;
+    height: 40%;
+    margin-top: 0.5em;
+    margin-left: 0.5em;
+    margin-right: 0.5em;
 }
 .img4{
 
