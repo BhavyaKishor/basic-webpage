@@ -59,16 +59,9 @@
   .column:first-child,
   .columns:first-child {
     margin-left: 0; }
-    img{width: 320px;
-float: right;
+    img{
+      width: 120px;
     }
-.coloums{
-  width: 320px;
-  float: left;
-}
-.img1{
-  width: 320px;
-}
   .one.column,
   .one.columns                    { width: 4.66666666667%; }
   .two.columns                    { width: 13.3333333333%; }
