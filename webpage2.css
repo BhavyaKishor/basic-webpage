@@ -5,8 +5,8 @@ border: 2px solid black;
 }
 .img0{
   margin: 10%;
-  width: 25%;
-  height: 25%;
+  width: 40%;
+  height: 40%;
   border-radius: 50%;
 
 }
@@ -27,8 +27,8 @@ border: 2px solid black;
 .img2{
   padding-left: 1em;
   padding-right: 1em;
-  width: 25%;
-  height: 25%;
+  width: 40%;
+  height: 40%;
   border-radius: 50%;
 }
 .arab{
@@ -46,8 +46,8 @@ border: 2px solid black;
 }
 .long-street{
   border-radius: 50%;
-  width: 25%;
-  height: 25%;
+  width: 35%;
+  height: 35%;
 }
 
 .hplace{
@@ -87,8 +87,8 @@ display: inline-block;
   padding-left: :1em;
   padding-right:1em;
   border-radius: 100%;
-  width: 25%;
-  height: 25%;
+  width: 35%;
+  height: 35%;
 
 }
 .bo{
@@ -123,7 +123,7 @@ display: inline-block;
 
   padding-left: 2em;
   padding-right: 2em;
-  width: 25%;
-height: 25%;
+  width: 35%;
+height: 35%;
 border-radius: 100%;
 }
