@@ -1,17 +1,16 @@
 .main{
-background-color:;
+background-color: white;
 margin-left: 1em;
 border: 2px solid black;
 }
 .img0{
   margin: 10%;
-  width: 40%;
-  height: 40%;
-  border-radius: 50%;
+  width: 50%;
+  height: 35%;
+  border-radius: 100%;
 
 }
 .travels{
-  float: left;
   background-color: white;
   padding-bottom: 1em;
   padding-left: 1em;
@@ -22,20 +21,15 @@ border: 2px solid black;
   border-radius: 1%;
   border-color: black;
   border-style: solid;
-  margin-bottom: 3em;
 }
 .img2{
   padding-left: 1em;
   padding-right: 1em;
-  width: 40%;
-  height: 40%;
-  border-radius: 50%;
-}
-.arab{
-  width: 60%;
+  width: 35%;
+  height: 35%;
+  border-radius: 100%;
 }
 .Language{
-  margin-top: 3em;
   margin: 2em;
   padding: 2em;
   width:25em/auto;
@@ -45,85 +39,64 @@ border: 2px solid black;
   border-style: solid;
 }
 .long-street{
-  border-radius: 50%;
-  width: 40%;
-  height: 40%;
-}
-
-.hplace{
-  display: inline-block;
-  width: 100%;
-}
-.bo{float: left;
-  border-color: black;
-  border-style: solid;
-  padding: 1em;
-  background-color: white;
-  border-radius: 5%;
-  width: 33.33%;
-  height: 40%;
-  margin-left: 2em;
-  margin-right: 2em;
-display: inline-block;
-}
-
-.bo-ka{
-  width: 90%;
+  border-radius: 100%;
+  width: 25%;
+  height: 25%;
 }
 
 .long{float: left;
   border-color: black;
-  border-style: solid;
+  border-style:  ridge;
   background-color: white;
   border-radius: 1%;
-  width: 30.33%;
+  width: 360px;
   height: 40%;
-  margin-left: 0.5em;
-  margin-right: 0.5em;
-display: inline-block;
-}
+  margin-right:1em;
+  padding: 1em;
+  }
 .img3{
-
+float: left;
   padding-left: :1em;
   padding-right:1em;
   border-radius: 100%;
-  width: 40%;
-  height: 40%;
+  width: 35%;
+  height: 35%;
 
+}
+.bo-ka{width: 85%
+}
+.longtext{
+  width: 85%;
+}
+.Castle-info{
+width: 85%;
 }
 .bo{
   float: left;
   border-color: black;
-  border-style: solid;
+  border-style:  ridge;
   background-color: white;
   border-radius: 1%;
-  width: 30.33%;
+  width: 360px;
   height: 40%;
-  margin-left: 0.5em;
-  margin-right: 0.5em;
+  padding: 1em;
+  }
+.the{
+  float: left;
+  border-color: black;
+  border-style:  ridge;
+  background-color: white;
+  border-radius: 1%;
+  width: 360px;
+  height: 40%;
+padding: 1em;
+margin-left: 0.5em;}
 
-
-}
-
-.Castle-info{
-  width: 90%;
-}
-.the{float:left;
-    border-color: black;
-    border-style: solid;
-    background-color: white;
-    border-radius: 1%;
-    width: 28.33%;
-    height: 40%;
-    margin-top: 0.5em;
-    margin-left: 0.5em;
-    margin-right: 0.5em;
-}
 .img4{
 
   padding-left: 2em;
   padding-right: 2em;
-  width: 40%;
-height: 40%;
+  width: 35%;
+height: 35%;
 border-radius: 100%;
 }
