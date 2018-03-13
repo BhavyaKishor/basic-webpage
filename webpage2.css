@@ -5,7 +5,7 @@ border: 2px solid black;
 }
 .img0{
   margin: 10%;
-  width: 50%;
+  width: 35%;
   height: 35%;
   border-radius: 100%;
 
@@ -43,9 +43,6 @@ border: 2px solid black;
   width: 25%;
   height: 25%;
 }
-
-
-
 .long{float: left;
   border-color: black;
   border-style:  ridge;
